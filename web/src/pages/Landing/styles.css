@@ -62,7 +62,7 @@
 }
 
 .buttons-container a.give-classes {
-    background-color: var(--color-secundary);
+    background-color: var(--color-secondary);
 }
 
 .buttons-container a.study:hover {
@@ -70,7 +70,7 @@
 }
 
 .buttons-container a.give-classes:hover {
-    background-color: var(--color-secundary-dark);
+    background-color: var(--color-secondary-dark);
 }
 
 .total-connections {

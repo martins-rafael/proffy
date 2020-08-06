@@ -39,6 +39,14 @@
     color: var(--color-title-in-primary);
 }
 
+.page-header .header-content p {
+    margin-top: 2.4rem;
+    max-width: 30rem;
+    font-size: 1.6rem ;
+    line-height: 2.6rem;
+    color: var(--color-title-in-primary);
+}
+
 @media (min-width: 700px) {
     .page-header {
         height: 340px;
