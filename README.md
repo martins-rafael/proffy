@@ -1,7 +1,5 @@
 # Proffy
 
-<p>Sua plataforma de estudos online.</p>
-
 <p>
   <img src="https://img.shields.io/badge/made%20by-RAFAEL%20MARTINS-04D361?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/proffy?color=04D361&style=flat-square">
@@ -33,7 +31,7 @@
 O Proffy é uma plataforma feita para conectar alunos e professores, desenvolvida durante a Next Level Week #2 da [Rocketseat](https://rocketseat.com.br/).
 
 <p align="center">
-  <img src=".github/landing.png" alt="Página inicial">
+  <img src=".github/mockup.png" alt="Página inicial">
 </p>
 
 <br>
@@ -44,6 +42,8 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 - [Node](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
 - [SQLite3](https://www.sqlite.org/index.html)
