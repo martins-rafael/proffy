@@ -109,6 +109,33 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 <br>
 
+### Mobile (App)
+
+1) Entre na pasta mobile com 
+    ```
+    cd proffy/mobile
+    ```
+
+<br>
+
+2) Instale as dependências
+    ```
+    yarn install
+    ```
+
+<br>
+
+3) Rode o app
+    ```
+    yarn start
+    ```
+    
+    <br>
+    
+4) Escaneie o QR Code exibido na janela do navegador.
+
+<br>
+
 ## Licença
 <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-04D361?style=flat-square">
