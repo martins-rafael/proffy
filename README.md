@@ -36,8 +36,6 @@ O Proffy é uma plataforma feita para conectar alunos e professores, desenvolvid
   <img src=".github/mockup.png" alt="Página inicial">
 </p>
 
-<br>
-
 ## Tecnologias
 
 As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
@@ -57,82 +55,52 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 ### API (Back-end)
 
-1) Abra um terminal e copie este repositório com o comando
-    ```
-    git clone https://github.com/martins-rafael/proffy.git
-    ```
-    ou use a opção de download.
+```bash
+# Abra um terminal e copie este repositório com o comando
+$ git clone https://github.com/martins-rafael/proffy.git
+# ou use a opção de download.
 
-<br>
+# Entre na pasta server 
+$ cd proffy/server
 
-2) Entre na pasta server com 
-    ```
-    cd proffy/server
-    ```
+# Instale as dependências
+$ yarn install
 
-<br>
-
-3) Instale as dependências
-    ```
-    yarn install
-    ```
-
-<br>
-
-4) Rode o servidor
-    ```
-    yarn start
-    ```
+# Rode o servidor
+$ yarn start
+```
 
 <br>
 
 ### Web (Front-end)
 
-1) Entre na pasta web com 
-    ```
-    cd proffy/web
-    ```
+```bash
+# Entre na pasta web com 
+$ cd proffy/web
 
-<br>
+# Instale as dependências
+$ yarn install
 
-2) Instale as dependências
-    ```
-    yarn install
-    ```
-
-<br>
-
-3) Rode o aplicação
-    ```
-    yarn start
-    ```
+# Rode o aplicação
+$ yarn start
+```
 
 <br>
 
 ### Mobile (App)
 
-1) Entre na pasta mobile com 
-    ```
-    cd proffy/mobile
-    ```
+```bash
+# Entre na pasta mobile com 
+$ cd proffy/mobile
 
-<br>
+# Instale as dependências
+$ yarn install
 
-2) Instale as dependências
-    ```
-    yarn install
-    ```
+# Rode o app
+$ yarn start
 
-<br>
-
-3) Rode o app
-    ```
-    yarn start
-    ```
-    
-    <br>
-    
-4) Escaneie o QR Code exibido na janela do navegador.
+# Escaneie o QR Code exibido na janela do navegador.
+```
 
 <br>
 
